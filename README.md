@@ -12,6 +12,7 @@ The aim of the project is to develop a project management tool for Python.
 - be able to use a pyproject.toml file
 - check dependencies (vulnerabilities)
 - add environment options to differentiate dev and prod
+- Sanitize inputs
 
 ## V3 - (TODO) : 
 
